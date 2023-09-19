@@ -9,7 +9,15 @@
   background: palevioletred;
   font-weight: bold;
   text-align: center;
+  vertical-align: middle;
+  display: table-cell;
   border: 6px solid maroon;
   width: 80px;
   height: 80px;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }

@@ -1,0 +1,20 @@
+/* button {
+  font-family: Helvetica, "Times New Roman", sans-serif;
+  font-size: 24px;
+} */
+
+.black,
+#yellow {
+  font-family: Helvetica, "Times New Roman", sans-serif;
+  font-size: 24px;
+}
+
+.black {
+  background-color: black;
+  color: white;
+}
+
+#yellow {
+  background: yellow;
+  color: black;
+}
